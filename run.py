@@ -112,7 +112,7 @@ def main():
         elif short_code == "ex":
             print("-" * 156)
             print(" ")
-            print("                        THANK YOU FOR DROPING IN!")
+            print("                        THAX FOR DROPING IN!")
             print("                           Bye... Bye...")
             print(" ")
             print("-" * 156)
